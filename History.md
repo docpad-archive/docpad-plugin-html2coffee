@@ -1,5 +1,11 @@
 ## History
 
+- v2.1.3 March 7, 2013
+	- Repackaged
+	- Dependency upgrades
+		-  `html2coffeekup` from 1.4.x to ~1.4.0
+		-  `coffee-script` from 1.3.x to ~1.4.0
+
 - v2.1.2 August 10, 2012
 	- Re-added markdown files to npm distribution as they are required for the npm website
 
