@@ -1,4 +1,4 @@
-## History
+# History
 
 - v2.1.3 March 7, 2013
 	- Repackaged
