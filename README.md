@@ -1,4 +1,4 @@
-# HTML2Coffee Plugin for DocPad
+# HTML2Coffee Plugin for [DocPad](http://docpad.org)
 
 <!-- BADGES/ -->
 
